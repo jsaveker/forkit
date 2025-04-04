@@ -1,4 +1,4 @@
-# Lunchlord 🍽️
+# Forkit 🍽️
 
 A fun web application that helps indecisive office workers figure out where to go for lunch. Let the Lunch Oracle guide you to your next meal!
 
